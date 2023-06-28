@@ -1,0 +1,38 @@
+.placeTemplate {
+    text-align: center;
+    background: aliceblue;
+    color: rgb(12, 33, 46);
+    margin: 30px;
+    padding: 20px;
+    font-family: Helvetica, Georgia, Garamond, Verdana;
+}
+
+.header {
+    margin-top:10px;
+    background: rgb(12, 33, 46);
+    display:flex;
+    justify-content: center;
+    color: aliceblue;
+    font-family: Helvetica, Georgia, Garamond, Verdana;
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+    background: rgb(12, 33, 46);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Helvetica, Georgia, Garamond, Verdana;
+}
+
+.linkStyle{
+    color: darkslateblue;
+}
+
+.aStyle {
+    color: aliceblue;
+}
+
+.images{
+    width: 70%;
+}
