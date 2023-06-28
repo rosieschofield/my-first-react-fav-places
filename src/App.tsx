@@ -23,13 +23,31 @@ function PlacesContent(): JSX.Element {
           description= {"Beautiful and quaint stone 18th and 19th century houses dotted across rolling hills of countryside"}
         />
         <Places
-          title={"Gone but not forgotten"}
+          title={"Gone But Not Forgotten"}
           placeName={"The Hairy Lemon, Jinja"}
           country={"Uganda"}
           imageURL={"https://scontent.flhr4-3.fna.fbcdn.net/v/t39.30808-6/302522642_457517953057665_2953685949641902779_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8wWPwfu5WjIAX_8_Bmc&_nc_ht=scontent.flhr4-3.fna&oh=00_AfCPNG5KdXrdlbfwUoluhSeHtCKqbTfYLB7agMvVgPlg0A&oe=64A0DF2B"}
           imageDescription={"Island beach with tropical trees, upon which visitors arrive via a small wooden boat which is pictured"}
           locationLink={"https://www.google.com/maps/d/embed?mid=1DguF5zH_lgyTgKjtZjIUXqqGsEU&ehbc=2E312F"}
           description= {"A tiny tropical island arrived at by kayak with soft sand and where monkeys and birds flit around the branches above your head. The island was flooded for the Isimba Dam in 2018 so memory of it's beauty is even more precious."}
+        />
+        <Places
+          title={"British Pastoral"}
+          placeName={"Lake District"}
+          country={"UK"}
+          imageURL={"https://media.istockphoto.com/id/680687290/photo/mountain-sheep-in-the-lake-district-national-park-cumbria-uk.jpg?s=612x612&w=0&k=20&c=YnS9cIB-ExBxXyMj82ViU3ZF0oVN57Tgct1IbcZ8p0I="}
+          imageDescription={"Yew Tree farm, a well known herdwick sheep farm formerly owned by Beatrix Potter, set in countryside hills"}
+          locationLink={"https://goo.gl/maps/tF4T6Ubu1GcSFjqv6"}
+          description= {"Has idyllic cottages, farms, wildlife and countryside, associations with famous creatives including Beatrix Potter and William Wordsworth, but also fantastic for adventure sports including hiking and climbing"}
+        />
+        <Places
+          title={"Home"}
+          placeName={"Essex"}
+          country={"UK"}
+          imageURL={"https://eu-assets.simpleview-europe.com/essex/imageresizer/?image=%2Fdmsimgs%2FHanningfield_-_Nature_2_1920176985.jpg&action=ProductDetailImage"}
+          imageDescription={"A woodland path"}
+          locationLink={"https://goo.gl/maps/ZvT6cALodUbeg2ez6"}
+          description= {"Where I have lived ever since I was born, a mix of towns, villages and countryside"}
         />
     </body>
   );
