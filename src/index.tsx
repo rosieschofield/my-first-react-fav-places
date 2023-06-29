@@ -10,8 +10,7 @@ const root = ReactDOM.createRoot(
 );
 
 root.render(
-  <React.StrictMode> 
-    <link rel="stylesheet" href="styles.css"></link>
+  <React.StrictMode>
     <Header />
     <PlacesContent />
     <Footer />
