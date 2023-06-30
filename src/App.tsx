@@ -63,7 +63,7 @@ const arrayOfPlaces: PlacesProps[] = [
     locationLink:
       "https://www.google.com/maps/d/embed?mid=1DguF5zH_lgyTgKjtZjIUXqqGsEU&ehbc=2E312F",
     description:
-      "A tiny tropical island arrived at by kayak with soft sand and where monkeys and birds flit around the branches above your head. The island was flooded for the Isimba Dam in 2018 so memory of it's beauty is even more precious.",
+      "A tiny tropical island arrived at by kayak with soft sand and where monkeys and birds hang out on the branches above your head. The island was flooded for the Isimba Dam in 2018 so sadly can't be visited anymore",
   },
   {
     title: "British Pastoral",
