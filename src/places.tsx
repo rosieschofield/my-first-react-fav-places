@@ -26,7 +26,7 @@ function Places(props: PlacesProps): JSX.Element {
         </a>
         )
       </h3>
-      <p className = "description">{props.description}</p>
+      <p className="description">{props.description}</p>
     </div>
   );
 }

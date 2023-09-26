@@ -7,7 +7,6 @@
   font-family: Helvetica, Georgia, Garamond, Verdana;
 }
 
-
 .header {
   margin-top: 10px;
   background: rgb(12, 33, 46);
@@ -19,7 +18,7 @@
 
 .description {
   inline-size: 65%;
-  overflow-wrap:break-word;
+  overflow-wrap: break-word;
   margin-left: auto;
   margin-right: auto;
 }
